@@ -1,1 +1,2 @@
-# Cognifyz
+Cognifyz: Data Analysis & Visualization Project
+This project involves importing and analyzing investment data in Power BI to uncover insights about individual investment behaviors. Key tasks include data exploration, gender-based analysis, correlation between savings objectives and investment choices, investment duration, and source of investment information. Visualizations and interactive dashboards are created to present findings and facilitate decision-making.
